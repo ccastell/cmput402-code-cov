@@ -1,5 +1,11 @@
 A minimal Dropwizard getting started project using Gradle. Use [shadowJar plugin](https://github.com/johnrengelman/shadow) to create fat jars.
 
+Badge
+
+[![codecov](https://codecov.io/gh/ccastell/cmput402-code-cov/branch/master/graph/badge.svg)](https://codecov.io/gh/ccastell/cmput402-code-cov)
+
+
+
 To create a fat jar:
 
 ```
